@@ -10,7 +10,7 @@ import org.apache.kafka.streams.kstream.KTable;
 import org.apache.kafka.streams.kstream.Materialized;
 import org.apache.kafka.streams.kstream.Produced;
 import org.apache.kafka.streams.state.KeyValueStore;
-import org.apache.logging.log4j.core.appender.mom.kafka.KafkaAppender;
+//import org.apache.logging.log4j.core.appender.mom.kafka.KafkaAppender;
 
 import java.util.Properties;
 
